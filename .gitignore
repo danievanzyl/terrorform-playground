@@ -1,0 +1,9 @@
+*.env
+*.tfstate*
+*.terraform
+*.lock.hcl
+.DS_Store
+dist
+*.bin
+*.[g|x]z
+*.tg[x|z]
